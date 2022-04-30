@@ -821,3 +821,91 @@ git branch -d vipin
 git branch
 git branch vipin 4b55abd
 git branch
+ll
+mkdir repo
+repo
+cd repo
+ll
+vi we.sh
+vi we1.sh
+git add -A
+git commit -m "we file"
+git log
+git branch
+git branch br2
+git branch
+git checkout br2
+ll
+git branch
+vi we.sh
+git checkout master
+ll
+vi sum.sh
+git add sum.sh
+git commit -m "sum"
+git checkout br2
+ll
+vi sum.sh
+git add sum.sh
+git commit -m "sum2"
+git branch
+git merge master'
+
+
+git merge master
+git branch master
+git siddesh
+vi sum.sh
+git add sum.sh
+git commit -m "conflict resolved"
+git merge master
+git branch
+ll
+git branch
+git branch master
+ll
+git tag 
+git branch
+git branch master
+git checkout master
+ll
+cd new 
+ll
+vi ss.txt
+git add ss.txt
+git commit -m "ss"
+git branch
+git checkout siddu
+ll
+git reabase --continue
+git rebase --continue
+git rebase --skip
+git rebase --abort
+git revert
+ll
+cd new
+ll
+vi sup.txt
+git status
+git add sup.txt
+git status
+git didd
+git diff
+vi sup.txt
+git diff
+git commit -m "sup for show"
+git status
+git log
+git log  b464e56e498
+git show  b464e56e498
+ll
+cd repo
+   ll
+ll
+cd new
+git ignore
+git --help
+.gitignore
+ll
+.gitignore txt
+.gitignore 1.txt
